@@ -1,0 +1,14 @@
+fastapi
+alembic
+pytest
+redis
+fastapi-redis-cache
+httpx
+sqlalchemy
+pydantic
+gunicorn
+uvicorn
+fastapi-cache2
+python-dotenv
+asyncpg
+psycopg2
